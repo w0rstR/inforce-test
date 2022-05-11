@@ -1,0 +1,18 @@
+.container{
+    padding: 40px;
+}
+
+.btnWrap{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.btn{
+    border: none;
+    outline: none;
+    padding: 20px 50px 20px 50px;
+    background-color: lightslategray;
+    color: white;
+    font-size: 20px;
+}

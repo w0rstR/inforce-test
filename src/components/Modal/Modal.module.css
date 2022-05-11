@@ -1,0 +1,53 @@
+.container{
+    width: 600px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+
+
+
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+}
+.input{
+    font-size: 14px;
+}
+.wrap{
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+}
+.btn{
+    border: none;
+    outline: none;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+    background-color: lightslategray;
+    color: white;
+    font-size: 18px;
+}
+.btnWrap{
+
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
+.cancelBtn{
+    margin-top: 10px;
+    border: none;
+    outline: none;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+    background-color: lightslategray;
+    color: white;
+    font-size: 18px;
+}

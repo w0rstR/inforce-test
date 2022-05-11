@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 864,
+      "name": "z",
+      "count": "20",
+      "weight": "",
+      "comment": []
+    },
+    {
+      "id": 366,
+      "name": "f",
+      "count": "35",
+      "weight": "",
+      "comment": []
+    },
+    {
+      "id": 558,
+      "name": "t",
+      "count": "5",
+      "weight": "",
+      "comment": []
+    },
+    {
+      "id": 979,
+      "name": "da",
+      "count": "50",
+      "weight": "50",
+      "comment": [
+        {
+          "description": "ddd",
+          "id": 0,
+          "productId": 781,
+          "data": "11.05.2022, 16:56:33"
+        },
+        {
+          "description": "da",
+          "id": 0,
+          "productId": 177,
+          "data": "11.05.2022, 16:56:59"
+        }
+      ]
+    }
+  ]
+}
